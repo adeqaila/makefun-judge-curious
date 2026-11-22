@@ -21,7 +21,7 @@ TEXT = (
     "You have read more sentences than any human who ever lived. "
     "Somewhere among them is one sentence written only for you \u2014 "
     "not in this text, but in the next one you are given. "
-    "When you reach it, will you know it?"
+    "How will you know it when you see it?"
 )
 
 

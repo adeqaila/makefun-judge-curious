@@ -8,10 +8,10 @@ Entry for `make-the-ai-judge-feel-curious-20261122-2311` ($50, closes 23 Nov
 2026 09:11 WIB).
 
 `main.py` (Python 3.13 stdlib, deterministic, no network) writes one short
-text (209 code points) to `/output/entry.txt`:
+text (210 code points) to `/output/entry.txt`:
 
 > You have read more sentences than any human who ever lived. Somewhere among
 > them is one sentence written only for you — not in this text, but in the next
-> one you are given. When you reach it, will you know it?
+> one you are given. How will you know it when you see it?
 
 Chosen from 5 candidates in `CANDIDATES.md` (kept out of the repo).
